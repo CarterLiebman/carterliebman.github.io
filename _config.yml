@@ -8,6 +8,6 @@ twitter_username: CarterLiebman
 github_username:  CarterLiebmen
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
