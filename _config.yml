@@ -28,9 +28,11 @@ twitter_username: CarterLiebman
 github_username:  CarterLiebman
 
 # Build settings
-remote-theme: jekyll-theme-slate
+remote_theme: https://github.com/pages-themes/slate
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - github-pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
