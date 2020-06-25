@@ -3,7 +3,7 @@ email: design@carterliebman.com
 description: >- # this means to ignore newlines until "baseurl:"
     The ramblings of a Chicago-based computer geek.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://carterliebman.com"
+url: ""
 twitter_username: CarterLiebman
 github_username:  CarterLiebmen
 
