@@ -54,5 +54,5 @@ We haven't even begun to discuss the first year "dash" rotation, student theatre
 
 <sup>1</sup> This essay won't go into the structural issues present in the Dance program and department. That's a whole other collection of essays that I can't write.
 
-<sup>2</sup>  Performers need to respect the amount of work that goes into design and management. It is what allows them to exist on a stage or screen. Additionally, the Northwestern Theatre department specifically built the Design class requirement of including easy-to-complete non-theatre classes (such as Intro to Painting or Sculpture) that are *not* representative of theatre design principles or the design process in theatre. 
+<sup>2</sup>  Performers need to respect the amount of work that goes into design and management. It is what allows them to exist on a stage or screen. Additionally, the Northwestern Theatre department specifically built the Design class requirement including easy-to-complete non-theatre classes (such as Intro to Painting or Sculpture) that are *not* representative of theatre design principles or the design process in theatre. 
 
