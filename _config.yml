@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 twitter_username: CarterLiebman
 github_username:  CarterLiebman
+instagram_username: CarterLiebman 
 
 # Build settings
 theme: minima
