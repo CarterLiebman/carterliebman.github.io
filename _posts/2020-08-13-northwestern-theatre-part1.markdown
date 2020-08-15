@@ -37,7 +37,7 @@ We haven't even begun to discuss the first year "dash" rotation, student theatre
 
 ---
 
-
+  <br />
 
 #### *Footnotes*
 
