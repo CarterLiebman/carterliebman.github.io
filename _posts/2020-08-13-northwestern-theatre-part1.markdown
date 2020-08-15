@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Don't Go to Northwestern University for Technical Theatre: Part I"
-date:   2020-08-13 20:41:01 -0500
+title:  "Northwestern Theatre Does Not Care About Designers, Part I"
 categories: northwestern
 ---
-I want to start this with a disclaimer. This is just a recollection and a reflection of my experience being at Northwestern University and a member of the theatre department as a whole. This is not going to be reflective of every Northwestern experience — in fact, it’s literally only representative of mine. I only hope that I can provide some clarity for students who are at this point in time making what can feel like an endlessly important decision: where to go for undergrad.
+*I want to start this with a disclaimer. This is just a recollection and a reflection of my experience being at Northwestern University and a member of the theatre department as a whole. This is not going to be reflective of every Northwestern experience — in fact, it’s literally only representative of mine. I only hope that I can provide some clarity for prospective students as well as students and members of the administration who seek to address these issues and change them.* 
 
 ## **Background**
 
@@ -20,7 +19,7 @@ Northwestern is somewhat unique in it’s orientation structure. Wildcat Welcome
 
 This disparity was unparalleled, however, with that which resulted from the department’s programming itself. Every orientation discussion held focused on the acting sequence of classes for performers, the Musical Theatre Certificate for performers, the variety of dance<sup>1</sup> classes you could take. The conversation of design was purely limited to the discussion of the design requirements for graduation: one design-based course in the first-year sequence and two design classes out of the forty one needs to graduate. In the full weeks’ worth of programming, I couldn’t recall a single moment where undergraduate designers and managers were explicitly addressed or even mentioned. 
 
-When the faculty was paraded in front of us, **not a single undergraduate faculty member was dedicated to teaching management or technical theatre.** As I would come to find out, the only classes taught for undergraduate designers were taught by **graduate students.** The only classes taught for undergraduate marketers or managers were taught by **staff members.** Staff members in higher education are often treated as second-class in both pay grade and respect, but more on that later.
+When the faculty was paraded in front of us, **not a single undergraduate faculty member was dedicated to teaching management or technical theatre.** As I would come to find out, the only classes taught for undergraduate designers were taught by **graduate students.** The only classes taught for undergraduate marketers or managers were taught primarily by **staff members.** Staff members in higher education are often treated as second-class in both pay grade and respect, but more on that later.
 
 This lack of any real concrete acknowledgement of the people in the group of 100 students who were dedicated to what 95% of theatre really is? That hurt. It hurt so much that, one of the last days of Wildcat Welcome, I had to ask one of the advisors why not a single person had ever mentioned a commitment to designers and marketers. That advisor, John Haas, was quick to point out the design module. **But one module does not an inclusive theatre program make. And Northwestern Theatre is sorely lacking in any sort of true commitment to its designers and managers. And that has led to real, dangerous situations.** 
 
@@ -30,7 +29,7 @@ The lack of undergraduate representation in design and management is an incredib
 
 Furthermore, **splitting the major allows you to change requirements.** This biggest gripe I've experienced in four years is that every performer in the theatre major spends an *ungodly* amount of time complaining about the design requirements.<sup>2</sup> But dividing the major allows you to **institutionally acknowledge the fact that designers exist** while allowing your curriculum to reflect the path that designers take. As of right now, the curriculum is clearly performance-structured and the existence of performance sequences – but not the same level of design sequences – further illustrates this.
 
-We haven't even begun to discuss the first year "dash" rotation, student theatre, the fundamental racism in the department, the mistreatment of staff members, the reality of the "design module", or the lack of any care by the advisors for what designers need. But don't worry, we will.
+We haven't even begun to discuss the first year "dash" rotation, student theatre, the mistreatment of staff members, the reality of the "design module", or the lack of any care by the advisors for what designers need. But don't worry, we will.
 
 ## *Part II to come.*
 
