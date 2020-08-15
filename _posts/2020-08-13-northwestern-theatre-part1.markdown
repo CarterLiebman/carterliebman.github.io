@@ -38,6 +38,8 @@ We haven't even begun to discuss the first year "dash" rotation, student theatre
 
 ---
 
+
+
 *Footnotes*
 
 <sup>1</sup> For the love of god, please don't come to Northwestern to study in the Dance department. That's a whole other collection of essays that I can't write.
