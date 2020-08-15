@@ -2,6 +2,7 @@
 
 layout: post
 title:  "Northwestern Theatre Does Not Care About Undergrad Designers, Part I"
+description: "An open letter to the (prospective) members of the Northwestern theatre community"
 categories: northwestern
 ---
 <meta property="og:image" content="https://carterliebman.com/images/part1.png">
