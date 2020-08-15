@@ -3,6 +3,7 @@ layout: post
 title:  "My Curly Hair Routine"
 date:   2020-06-25 15:41:01 -0500
 categories: random
+published: false
 ---
 Big thing is getting off of shampoo and conditioner with sulfate in it
 I transitioned to conditioner-only, where you use conditioner like you use shampoo
