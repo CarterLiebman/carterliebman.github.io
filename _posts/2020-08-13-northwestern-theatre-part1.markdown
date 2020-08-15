@@ -1,9 +1,13 @@
 ---
+<meta property="og:image" content="https://carterliebman.com/images/part1.png">
+
 layout: post
 title:  "Northwestern Theatre Does Not Care About Undergraduate Designers, Part I"
 categories: northwestern
 ---
 <img src="https://carterliebman.com/images/part1.png" style="display:none;">
+
+
 
 *I want to start this with a disclaimer. This is just a recollection and a reflection of my experience being at Northwestern University and a member of the theatre department as a whole. This is not going to be reflective of every Northwestern experience — in fact, it’s literally only representative of mine. I only hope that I can provide some clarity for prospective students as well as students and members of the administration who seek to address these issues and change them.* 
 
