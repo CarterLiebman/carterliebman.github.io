@@ -32,11 +32,13 @@ Furthermore, **splitting the major allows you to change requirements.** This big
 
 We haven't even begun to discuss the first year "dash" rotation, student theatre, the fundamental racism in the department, the mistreatment of staff members, the reality of the "design module", or the lack of any care by the advisors for what designers need. But don't worry, we will.
 
-*Part II to come.*
+## *Part II to come.*
 
 
 
 ---
+
+*Footnotes*
 
 <sup>1</sup> For the love of god, please don't come to Northwestern to study in the Dance department. That's a whole other collection of essays that I can't write.
 
