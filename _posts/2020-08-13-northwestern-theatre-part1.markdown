@@ -1,8 +1,11 @@
 ---
 <meta property="og:image" content="https://carterliebman.com/images/part1.png">
+<meta property="og:title" content="Northwestern Theatre Does Not Care About Undergrad Designers, Part I">
+<meta property="og:description" content="An open letter to prospective students, current students, faculty, and staff at Northwestern Theatre.">
+<meta property="og:url" content="https://blog.carterliebman.com/northwestern/2020/08/13/northwestern-theatre-part1.html">
 
 layout: post
-title:  "Northwestern Theatre Does Not Care About Undergraduate Designers, Part I"
+title:  "Northwestern Theatre Does Not Care About Undergrad Designers, Part I"
 categories: northwestern
 ---
 <img src="https://carterliebman.com/images/part1.png" style="display:none;">
