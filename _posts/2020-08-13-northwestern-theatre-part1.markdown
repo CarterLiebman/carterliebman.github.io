@@ -27,9 +27,9 @@ This lack of any real concrete acknowledgement of the people in the group of 100
 
 The lack of undergraduate representation in design and management is an incredibly nuanced one, but it starts at the very beginning of the process. Because Northwestern's Theatre major is not further subdivided, **admissions to the program are not compared to their peers in an accurate way.** The single theatre major means that every performer is compared to every singer, director, lighting designer, props designer, costumes designer, or stage manager who is seeking to come to Northwestern theatre. With a single major path, **there is no way to fix the representation issue.** If the major was divided into two paths with two different quotas – say, 75 performers and 25 designers/managers, if we're sticking with the 100-seat cap – you can ensure that the **population of undergraduate managers and designers is increasing every year, not decreasing.** But 25 designers isn't enough. I would argue that the ratio for designers to performers should be 2:1 or higher, considering every production that occurs on campus (more on *those* later) should theoretically need more than one person per design area.
 
-Furthermore, **splitting the major allows you to change requirements.** This biggest gripe I've experienced in four years is that every performer in the theatre major spends an *ungodly* amount of time complaining about the design requirements.<sup>2</sup> But dividing the major allows you to **institutionally acknowledge the fact that designers exist** while allowing your curriculum to reflect the path that designers take. As of right now, the curriculum is clearly performance-structured and the existence of performance sequences – but not the same level of design sequences – further illustrates this.
+Furthermore, **splitting the major allows you to change requirements.** This biggest gripe I've experienced in four years is that every performer in the theatre major spends an *ungodly* amount of time complaining about the design requirements.<sup>2</sup> They should still be required to do this. But dividing the major allows you to **institutionally acknowledge the fact that designers exist** while allowing your curriculum to reflect the path that designers take. As of right now, the curriculum is clearly performance-structured and the existence of performance sequences – but not the same level of design sequences – further illustrates this.
 
-We haven't even begun to discuss the first year "dash" rotation, student theatre, the mistreatment of staff members, the reality of the "design module", or the lack of any care by the advisors for what designers need. But don't worry, we will.
+We haven't even begun to discuss the first year "dash" rotation, student theatre, the mistreatment of staff members, **design classes**, the ignoring of FGLI student realities, or the lack of any care by the advisors for what designers need. But don't worry, we will.
 
 ## *Part II to come.*
 
@@ -41,6 +41,7 @@ We haven't even begun to discuss the first year "dash" rotation, student theatre
 
 #### *Footnotes*
 
-<sup>1</sup> For the love of god, please don't come to Northwestern to study in the Dance department. That's a whole other collection of essays that I can't write.
+<sup>1</sup> This essay won't go into the structural issues present in the Dance program and department. That's a whole other collection of essays that I can't write.
 
-<sup>2</sup>  Whether or not that is a shortsighted way to look at the fundamental basis of theatre is not really the point, but it totally is and performers need to respect the amount of work that goes into design and management.
+<sup>2</sup>  Performers need to respect the amount of work that goes into design and management. It is what allows them to exist on a stage or screen. Additionally, the Northwestern Theatre department specifically built the Design class requirement of including easy-to-complete non-theatre classes (such as Intro to Painting or Sculpture) that are *not* representative of theatre design principles or the design process in theatre. 
+
