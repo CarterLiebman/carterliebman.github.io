@@ -34,7 +34,7 @@ This does not include any of the senior special acting topics (5+), the litany o
 
 Conversely, this is what a track for one design area, lighting, looks like:
 
-<img src="https://carterliebman.com/images/2-lighting-sequence.png" alt="Acting Sequence Diagram" />
+<img src="https://carterliebman.com/images/2-lighting-sequence.png" alt="Lighting Sequence Diagram" />
 
 This does not include the one (1) other directly related design class, Computer Graphics. There currently exists no history of stage design course.
 
@@ -53,6 +53,8 @@ Here’s a short, inexhaustive list of areas my peers and I identified as nonexi
 - **Fight/Intimacy Choreographers** are by far the most essential people in a rehearsal space for the comfort and safety of actors, directors, and stage managers. Currently, there is no way at Northwestern — affiliated with the curriculum — to learn the skills that are encompassed in safely teaching combat scenes as well as intimate moments. Any students who are interested in exploring these **have** to take courses at the nearby Actor's Gym, but that represents a cost-prohibitive method that ultimately reduces the population of choreographers to those rich enough to afford classes.<sup>3</sup> More on the financial considerations of this department later.
 - **Sound Design** is often considered the sister topic of lighting design, but where lighting design has at least a two quarter undergraduate sequence, sound design has none. **Students are literally hired to run Wirtz Center professional productions without a single class taught in the skills required.**
 - **Projections and Automation Design** are two more elements that are essentially standard in professional and touring productions that Northwestern students are completely unprepared for. The multimedia development of projections completely changes how a lighting designer functions, but that is never discussed in undergraduate lighting courses. Automation is now an essential part of a scenic designer’s toolkit but is left unaddressed.
+
+<img src="https://carterliebman.com/images/3-sound-sequence.png" alt="Sound Sequence Diagram" />
 
 There are absolutely more areas that need to be discussed – draping and cutting in costumes, millenery, etc. – but you would have to ask a costume design student to weigh in on that. This list doesn't even include design areas that are woefully undertaught at Northwestern, given two classes or fewer. This includes critical areas such as **stage management, production management, and any types of art administration.** 
 
