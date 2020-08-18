@@ -26,7 +26,7 @@ At Northwestern, the typical course load is 4 courses a quarter for 12 quarters 
 
 One of the ways that this is presented is in multi-quarter course sequences. Following the first-year rotation (currently 140-1, 140-2, 120-1, and 170-1), students can choose to embark on classes that are either taught by the same professor or build upon the same principles.
 
-The primary way that students in the Theatre department connect with this is in the acting sequence. A sequence that begins in your sophomore year, you complete three quarters (or more) with the same acting professor studying one of the many different methodologies that exist (Hagen, Chekhov, Stanislavsky.) The track that anyone studying performance takes can look like this:
+The primary way that students in the Theatre department connect with this is in the acting sequence. A sequence that begins in your sophomore year, you complete three quarters (or more) with the same acting professor studying one of the many different methodologies that exist (Hagen, Chekhov, Stanislavsky, etc.) The track that anyone studying performance takes can look like this:
 
 <img src="https://carterliebman.com/images/1-acting-sequence.png" alt="Acting Sequence Diagram" />
 
