@@ -5,14 +5,14 @@ title:  "Northwestern Theatre Does Not Care About Undergrad Designers, Part II"
 description: "An open letter to the (prospective) members of the Northwestern theatre community"
 categories: northwestern
 ---
-<meta property="og:image" content="https://carterliebman.com/images/part2.png">
+<meta property="og:image" content="https://carterliebman.com/images/part1.png">
 <meta property="og:title" content="Northwestern Theatre Does Not Care About Undergrad Designers, Part II">
 <meta property="og:description" content="An open letter to prospective students, current students, faculty, and staff at Northwestern Theatre.">
 <meta property="og:url" content="https://blog.carterliebman.com/northwestern/2020/08/17/northwestern-theatre-part2.html">
 
 <img src="https://carterliebman.com/images/part1.png" style="display:none;">
 
-
+*<a href="https://blog.carterliebman.com/northwestern/2020/08/13/northwestern-theatre-part1">Part 1</a> **Part 2***
 
 *Two quick clarifications:*
 
@@ -76,7 +76,7 @@ We haven't even begun to discuss the first year "dash" rotation, student theatre
 
 ## *Part III to come.*
 
-
+*<a href="https://blog.carterliebman.com/northwestern/2020/08/13/northwestern-theatre-part1">Part 1</a> **Part 2***
 
 ---
 

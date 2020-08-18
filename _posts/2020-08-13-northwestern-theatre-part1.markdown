@@ -12,7 +12,7 @@ categories: northwestern
 
 <img src="https://carterliebman.com/images/part1.png" style="display:none;">
 
-
+**Part 1** <a href="https://blog.carterliebman.com/northwestern/2020/08/17/northwestern-theatre-part2">Part 2</a>
 
 *I want to start this with a disclaimer. This is just a recollection and a reflection of my experience being at Northwestern University and a member of the theatre department as a whole. This is not going to be reflective of every Northwestern experience — in fact, it’s literally only representative of mine. I only hope that I can provide some clarity for prospective students as well as students and members of the administration who seek to address these issues and change them.* 
 
@@ -40,11 +40,9 @@ The lack of undergraduate representation in design and management is an incredib
 
 Furthermore, **splitting the major allows you to change requirements.** This biggest gripe I've experienced in four years is that every performer in the theatre major spends an *ungodly* amount of time complaining about the design requirements.<sup>2</sup> They should still be required to do this. But dividing the major allows you to **institutionally acknowledge the fact that designers exist** while allowing your curriculum to reflect the path that designers take. As of right now, the curriculum is clearly performance-structured and the existence of performance sequences – but not the same level of design sequences – further illustrates this.
 
-We haven't even begun to discuss the first year "dash" rotation, student theatre, the mistreatment of staff members, **design classes**, the ignoring of FGLI student realities, or the lack of any care by the advisors for what designers need. But don't worry, we will.
+We haven't even begun to discuss the first year "dash" rotation, student theatre, the mistreatment of staff members, design classes, the ignoring of FGLI student realities, or the lack of any care by the advisors for what designers need. But don't worry, we will.
 
-## *Part II to come.*
-
-
+## <a href="https://blog.carterliebman.com/northwestern/2020/08/17/northwestern-theatre-part2">Part II</a>
 
 ---
 
