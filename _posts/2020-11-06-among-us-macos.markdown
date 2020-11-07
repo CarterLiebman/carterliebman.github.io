@@ -26,4 +26,5 @@ This is a pre-packaged Wineskin wrapper of the popular Among Us game.
 
 | Version | Link |
 | --- | --- |
-|v2020.11.4s| [Mega.nz](https://mega.nz/file/zL5W0TJa#pkqHmIQjYTHmitSNxgo3yteQ6kHfuwxkFZl9R-xXPBo) |
+|v2020.11.4s| [mega.nz](https://mega.nz/file/zL5W0TJa#pkqHmIQjYTHmitSNxgo3yteQ6kHfuwxkFZl9R-xXPBo) |
+|v2020.09.9s| [mega.nz](https://mega.nz/file/ueAz0CZb#DoUm5A_UgGNy5pmexXlYBJ7HrciDpD4cOeh_QnqDFxU) |
