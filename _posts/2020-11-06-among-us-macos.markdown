@@ -21,6 +21,8 @@ This is a pre-packaged Wineskin wrapper of the popular Among Us game.
 
 1. Download the Among Us version you're looking for.
 2. Drag `Among Us.app` to `/Applications`.
+3. To launch for the first time, right click `Among Us.app`and choose `Open`.
+*You must open Among Us once this way to open an unverified app.*
 
 ## Versions
 
