@@ -9,6 +9,6 @@ github_username:  CarterLiebman
 instagram_username: CarterLiebman 
 
 # Build settings
-theme: minima
+remote_theme: "dracula/gh-pages"
 plugins:
   - jekyll-feed
