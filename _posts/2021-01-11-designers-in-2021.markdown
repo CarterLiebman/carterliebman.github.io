@@ -4,7 +4,7 @@ title:  "2021 is the year we think about designers, right?"
 description: "An open letter to the (prospective) members of the Northwestern theatre community"
 categories: theatre
 ---
-<meta property="og:image" content="https://carterliebman.com/images/part2.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/CarterLiebman/carterliebman.github.io/master/_img/designers_stage.jpg">
 <meta property="og:title" content="2021 is the year we think about designers, right?">
 <meta property="og:description" content="2020 was the year media changed forever. If we're coming back to theaters and stages in 2021, it needs to be with a greater sense of recognition for the absolute assload of work theatrical designers do for the rest of the industry.">
 <meta property="og:url" content="https://blog.carterliebman.com/theatre/2021/01/11/designers-in-2021.html">
