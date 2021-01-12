@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title:  "Northwestern Theatre Does Not Care About Undergrad Designers, Part I"
+title:  "A Case for Supporting Undergrad Designers, Part I"
 description: "An open letter to the (prospective) members of the Northwestern theatre community"
 categories: northwestern
 ---
-<meta property="og:image" content="https://carterliebman.com/images/part1.png">
-<meta property="og:title" content="Northwestern Theatre Does Not Care About Undergrad Designers, Part I">
+
+<meta property="og:title" content="A Case for Supporting Undergrad Designers, Part I">
 <meta property="og:description" content="An open letter to prospective students, current students, faculty, and staff at Northwestern Theatre.">
 <meta property="og:url" content="https://blog.carterliebman.com/northwestern/2020/08/13/northwestern-theatre-part1.html">
 
@@ -54,3 +54,4 @@ We haven't even begun to discuss the first year "dash" rotation, student theatre
 
 <sup>2</sup>  Performers need to respect the amount of work that goes into design and management. It is what allows them to exist on a stage or screen. Additionally, the Northwestern Theatre department specifically built the Design class requirement including easy-to-complete non-theatre classes (such as Intro to Painting or Sculpture) that are *not* representative of theatre design principles or the design process in theatre. 
 
+<sup>3</sup> This essay was previously titled "Northwestern Theatre Does Not Care About Undergraduate Designers."

@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title:  "Northwestern Theatre Does Not Care About Undergrad Designers, Part II"
+title:  "A Case for Supporting Undergrad Designers, Part II"
 description: "An open letter to the (prospective) members of the Northwestern theatre community"
 categories: northwestern
 ---
 <meta property="og:image" content="https://carterliebman.com/images/part2.png">
-<meta property="og:title" content="Northwestern Theatre Does Not Care About Undergrad Designers, Part II">
+<meta property="og:title" content="A Case for Supporting Undergrad Designers, Part II">
 <meta property="og:description" content="An open letter to prospective students, current students, faculty, and staff at Northwestern Theatre.">
 <meta property="og:url" content="https://blog.carterliebman.com/northwestern/2020/08/17/northwestern-theatre-part2.html">
 
@@ -50,7 +50,7 @@ Here’s where the bread and butter of my struggle with the theatre department b
 Here’s a short, inexhaustive list of areas my peers and I identified as nonexistent in the theatre curriculum:
 
 - **Technical Directing** is by far the most dangerous gap in the curriculum. Technical directors are responsible for site supervision in a theatre and are — in many cases — the preventer of most accidents and dangerous working conditions that theatre artists are sometimes asked to make. This is even MORE damaging when you consider how extensive and largely unsafe the practices of student theatre are, but more on that later.
-- **Fight/Intimacy Choreographers** are by far the most essential people in a rehearsal space for the comfort and safety of actors, directors, and stage managers. Currently, there is no way at Northwestern — affiliated with the curriculum — to learn the skills that are encompassed in safely teaching combat scenes as well as intimate moments. Any students who are interested in exploring these **have** to take courses at the nearby Actor's Gym, but that represents a cost-prohibitive method that ultimately reduces the population of choreographers to those rich enough to afford classes.<sup>3</sup> More on the financial considerations of this department later.
+- **Fight/Intimacy Choreographers** are by far the most essential people in a rehearsal space for the comfort and safety of actors, directors, and stage managers. Currently, there is no way at Northwestern — affiliated with the curriculum — to learn the skills that are encompassed in safely teaching combat scenes as well as intimate moments. Any students who are interested in exploring these **have** to take courses at the nearby Actor's Gym, but that represents a cost-prohibitive method that ultimately reduces the population of choreographers to those wealthy enough to afford classes.<sup>3</sup> More on the financial considerations of this department later.
 - **Sound Design** is often considered the sister topic of lighting design, but where lighting design has at least a two quarter undergraduate sequence, sound design has none. **Students are literally hired to run Wirtz Center professional productions without a single class taught in the skills required.**
 - **Projections and Automation Design** are two more elements that are essentially standard in professional and touring productions that Northwestern students are completely unprepared for. The multimedia development of projections completely changes how a lighting designer functions, but that is never discussed in undergraduate lighting courses. Automation is now an essential part of a scenic designer’s toolkit but is left unaddressed.
 
